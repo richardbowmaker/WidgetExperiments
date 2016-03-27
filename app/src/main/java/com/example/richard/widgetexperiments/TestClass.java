@@ -7,4 +7,5 @@ public class TestClass
 {
     // added some code
     // added some more code
+    // code on a branch
 }
