@@ -6,4 +6,5 @@ package com.example.richard.widgetexperiments;
 public class TestClass
 {
     // added some code
+    // added some more code
 }
