@@ -48,5 +48,7 @@ public class WidgetExperimentsActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+
+        // my comment
     }
 }
